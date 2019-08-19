@@ -1,2 +1,2 @@
-# code
-Code automate repetitive coding
+# codai
+Codai automate repetitive coding
