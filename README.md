@@ -1,2 +1,2 @@
 # codai
-Codai automate repetitive coding
+Codai automate repetitive coding tasks
